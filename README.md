@@ -47,8 +47,8 @@ where:
 - **Composition as Input Feature:**  
   Incorporate alloy composition (wt% of each element) as an input feature to the machine learning model. This would enable prediction and inverse design of yield strength and process schedules for any alloy within the simulated composition window.
 
-##Required Files:
+## Required Files:
 
--**Thermo-Calc Project file: ** Al-Cu Project.tcu
--**Code: ** Al_Cu_Inverse_Design.ipynb
--**Dataset generated from Thermo-Calc: ** PRISMA Dataset.csv
+- **Thermo-Calc Project file:** Al-Cu Project.tcu
+- **Code:** Al_Cu_Inverse_Design.ipynb
+- **Dataset generated from Thermo-Calc:** PRISMA Dataset.csv
